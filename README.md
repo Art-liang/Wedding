@@ -1,7 +1,7 @@
 # Wedding
 
 
-<img alt="react" src="https://github.com/Art-liang/Wedding/blob/main/images/p1.mp4"/> 
+<a href="{[video-url](https://youtu.be/wYbkKhQLOzw)}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
 
 
 ## 目錄
