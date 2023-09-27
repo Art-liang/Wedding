@@ -1,8 +1,8 @@
 # Wedding
 
 
-<a href="{[video-url](https://youtu.be/wYbkKhQLOzw)}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
-
+<a href="https://www.youtube.com/watch?v=wYbkKhQLOzw&ab_channel=TingLiang" title="婚禮loading"><img src="https://github.com/Art-liang/Wedding/blob/main/images/wed-p1.jpg" alt="婚禮" /></a>
+ 
 
 ## 目錄
 
